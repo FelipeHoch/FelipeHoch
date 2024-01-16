@@ -1,8 +1,5 @@
 ## Hi there, I'm Felipe Hoch 👋
 
-
-- 🔭 I’m currently working with Angular
-- 🌱 I’m currently learning about create applications in Angular
 - 📫 How to reach me: hochfelipe@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: The Dark series is the G.O.A.T 🐐
